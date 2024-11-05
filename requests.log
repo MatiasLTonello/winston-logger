@@ -1,0 +1,10 @@
+2024-11-05T05:19:26.888Z [INFO]: Server is running on port 3000
+2024-11-05T05:19:35.663Z [INFO]: Incoming request: GET /
+2024-11-05T05:19:35.746Z [INFO]: Incoming request: GET /favicon.ico
+2024-11-05T05:19:57.290Z [INFO]: Incoming request: GET /error
+2024-11-05T05:19:57.290Z [ERROR]: An error occurred on /error
+2024-11-05T05:20:00.060Z [INFO]: Incoming request: GET /error
+2024-11-05T05:20:00.060Z [ERROR]: An error occurred on /error
+2024-11-05T05:22:21.096Z [INFO]: Server is running on port 3000
+2024-11-05T05:22:25.278Z [INFO]: Incoming request: GET /error
+2024-11-05T05:22:25.279Z [ERROR]: An error occurred on /error
